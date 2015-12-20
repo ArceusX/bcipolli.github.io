@@ -32,8 +32,8 @@
 - first-name: "Triet"
   last-name: "Lieu"
   type: "research"
-  github-username: "?"
-  homepage: "?"
+  github-username: "ArceusX"
+  homepage: "https://github.com/ArceusX"
   project-blurb: 3D visualizations of brain data using <a href="{{ '/projects/rogybiv/' | prepend:site.baseurl }}">RoyGBiv</a> and <a href="http://brainbrowser.cbrain.mcgill.ca/">Brain Browser</a>.
 - first-name: "Frank"
   last-name: "Liao"
